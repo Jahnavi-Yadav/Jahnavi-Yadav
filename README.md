@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jahnavi-Yadav
-- 👀 I’m interested in learning programming languages and then implementing them into real world, also interested towards web development.
-- 🌱 I’m currently learning Web dev
+- 👀 I’m interested in learning programming languages and then implementing them into real world, also interested towards development and data science.
+- 🌱 
 - �
 - 📫 How to reach me .Here is my email-jahnavii.net@gmail.com
 
